@@ -11,7 +11,7 @@ last_name: Pérez-Valera
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🦠
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral researcher
+role: Ramón y Cajal researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: INRAE (France)
-    url: https://inrae.fr/
+  - name: iMiDRA (Madrid, Spain)
+    url: https://www.comunidad.madrid/agricultura-ganaderia-medio-rural/investigacion-agraria
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:eduardoperezval@gmail.com'
+    url: 'mailto:eduardo.perez.valera@madrid.org'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/E_PerezValera
@@ -69,13 +69,23 @@ education:
     date_end: 2010-07-01
     summary: |
 work:
+- position: Ramón y Cajal researcher
+    company_name: iMiDRA (Madrid, Spain)
+    company_url: 'https://www.comunidad.madrid/agricultura-ganaderia-medio-rural/investigacion-agraria'
+    company_logo: 'imidra.png'
+    icon: "custom/inrae.svg"
+    date_start: 2026-06-01
+    date_end: ''
+    summary: |-2
+      Soil microbiomes: Diversity and function in response to vectors of global change
+
   - position: Postdoctoral Researcher
     company_name: INRAE (France)
     company_url: 'http://www.inrae.fr'
     company_logo: 'custom/inrae.svg'
     icon: "custom/inrae.svg"
     date_start: 2023-01-01
-    date_end: ''
+    date_end: '2025-05-30'
     summary: |-2
       Diversity and function of **nitrogen-cycling microorganisms**.
 

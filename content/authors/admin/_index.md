@@ -69,7 +69,7 @@ education:
     date_end: 2010-07-01
     summary: |
 work:
-- position: Ramón y Cajal researcher
+  - position: Ramón y Cajal researcher
     company_name: iMiDRA (Madrid, Spain)
     company_url: 'https://www.comunidad.madrid/agricultura-ganaderia-medio-rural/investigacion-agraria'
     company_logo: 'imidra.png'
